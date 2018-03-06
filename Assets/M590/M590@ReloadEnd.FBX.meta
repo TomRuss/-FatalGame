@@ -1,7 +1,5 @@
 fileFormatVersion: 2
-guid: 38b10821d4bf9d045ac727dac2425642
-timeCreated: 1477860441
-licenseType: Free
+guid: 955e2ca2c74f76641b9cd0594176da0a
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -344,7 +342,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 5
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -358,11 +356,11 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 3
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
