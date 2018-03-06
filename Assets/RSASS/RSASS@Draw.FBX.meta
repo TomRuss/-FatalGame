@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: f3c8ce3e441db8c4189eb87cdc95bf1f
-timeCreated: 1477859185
+guid: f0dfaa98bec4d5b4d9742f2a19c50580
+timeCreated: 1476902098
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -300,13 +300,9 @@ ModelImporter:
     2300000: mag
     2300002: main
     2300004: trigger
-    2300006: '# Arm Male L'
-    2300008: '# Arm Male R'
     3300000: mag
     3300002: main
     3300004: trigger
-    3300006: '# Arm Male L'
-    3300008: '# Arm Male R'
     4300000: '# Arm Male R'
     4300002: '# Arm Male L'
     4300004: main
@@ -331,7 +327,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    animationCompression: 1
+    animationCompression: 0
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -341,7 +337,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 3
+    globalScale: 8
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
