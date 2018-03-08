@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: b64741627f8f5c94ab469bd229d2aa64
+guid: 0c027cbd3e8177d47952a5ea504e34e2
+labels:
+- packfence
 NativeFormatImporter:
   userData: 
   assetBundleName: 

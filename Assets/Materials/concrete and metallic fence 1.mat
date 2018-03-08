@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Concrete Wall
+  m_Name: concrete and metallic fence 1
   m_Shader: {fileID: 4800000, guid: 7792a3cffd002fc409bf3c27523f65ce, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -18,26 +18,26 @@ Material:
     - first:
         name: _BumpMap
       second:
-        m_Texture: {fileID: 2800000, guid: 1a0d9e1ea5f9de34dac358f920560348, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8096697659241c44c94428d550df89b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 4b21509b781b54e43b18109388413afc, type: 3}
+        m_Texture: {fileID: 2800000, guid: b71f22c6378de5649b4502e42749b028, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - first:
         name: _Cutoff
-      second: 0.5
+      second: 0.19642855
     - first:
         name: _Shininess
       second: 1
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
+      second: {r: 0.53676474, g: 0.53676474, b: 0.53676474, a: 1}
     - first:
         name: _SpecColor
-      second: {r: 0.058823526, g: 0.058823526, b: 0.058823526, a: 1}
+      second: {r: 0.43382353, g: 0.43382353, b: 0.43382353, a: 1}
