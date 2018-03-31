@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f8248da7139a6a45b52ac3915314410
+guid: 934af1aaaf0c35042b2c7149b1790cd2
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -7,8 +7,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: stone1
-    7400000: Take 001
+    4300000: GeoSphere001
     9500000: //RootNode
   materials:
     importMaterials: 0
@@ -34,7 +33,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.02
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -50,10 +49,10 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 0
   tangentSpace:
-    normalSmoothAngle: 20
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
